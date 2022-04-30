@@ -1,0 +1,5 @@
+1. Ansible works
+2. Terraform works
+3. Load balanser (AWS testing)
+4. VPC (AWS testing)
+5. 
